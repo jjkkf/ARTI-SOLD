@@ -1,1 +1,2 @@
 # ARTI-SOLD
+基于QT实现
